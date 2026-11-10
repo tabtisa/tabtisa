@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Olá, sou o João Leal! 💼✨
+# ✨🌸 Olá, sou o João Leal! 🌸✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=19&duration=3000&pause=1000&color=D8A47F&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Desenvolvimento+e+Dados+%7C+Node.js+%7C+Express+%7C+Power+BI+%7C+Excel+%E2%9C%A8;%F0%9F%8C%BF+Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%F0%9F%93%88+Transformando+dados+em+solu%C3%A7%C3%B5es+inteligentes." alt="Typing SVG" />
 
